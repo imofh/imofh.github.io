@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="UTF-8">
+    <title>俺のテキストサイト</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<div class="container">
+
+    <header>
+        <h1>俺のテキストサイト</h1>
+        <p>個人サイトへようこそ！</p>
+    </header>
+
+    <div class="main">
+
+        <nav>
+            <h3>MENU</h3>
+            <a href="index.html">トップ</a><br>
+            <a href="#">日記</a><br>
+            <a href="#">音楽</a><br>
+            <a href="#">DTM</a><br>
+            <a href="#">リンク</a>
+        </nav>
+
+        <main>
+            <h2>Welcome!</h2>
+
+            <p>
+                こんにちは。
+            </p>
+
+            <p>
+                今日からテキストサイトを始めました。
+            </p>
+
+            <h2>更新履歴</h2>
+
+            <p>
+                2026/10/06　サイト開設
+            </p>
+        </main>
+
+    </div>
+
+    <footer>
+        © 2026 俺のテキストサイト
+    </footer>
+
+</div>
+
+</body>
+</html>
